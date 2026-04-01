@@ -15,7 +15,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Ask My CV",
+  title: "Profile Insight",
   description: "An interactive AI-powered professional profile",
 };
 

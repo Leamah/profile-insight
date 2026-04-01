@@ -135,7 +135,7 @@ export default function Home() {
               border: "1px solid var(--border)",
             }}
           >
-            Interactive CV
+            Profile Insight
           </div>
           <h1
             className="text-4xl md:text-5xl font-bold mb-2 leading-tight"
@@ -431,7 +431,7 @@ export default function Home() {
             color: "var(--text-muted)",
           }}
         >
-          Powered by AI · CV-scoped responses only · No data stored
+          Powered by AI · Profile-scoped responses only · No data stored
         </footer>
       </div>
     </main>
