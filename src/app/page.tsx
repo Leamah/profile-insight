@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect } from "react";
+import Image from "next/image";
 import cv from "@/data/cv.json";
 
 const MAX_MESSAGES = 10;
@@ -136,6 +137,21 @@ export default function Home() {
             }}
           >
             Profile Insight
+          </div>
+          <div className="mb-6">
+            <Image
+              src="/profile.jpg"
+              alt={cv.name}
+              width={120}
+              height={120}
+              className="rounded-full object-cover"
+              style={{
+                border: "3px solid var(--gold)",
+                width: 120,
+                height: 120,
+              }}
+              priority
+            />
           </div>
           <h1
             className="text-4xl md:text-5xl font-bold mb-2 leading-tight"
