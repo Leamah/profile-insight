@@ -1,7 +1,7 @@
 {
   "name": "Phala Freddy Mahloana",
-  "title": "Strategic Transformation & Business Analysis Leader",
-  "summary": "I operate at the intersection of business strategy, operational execution, and technology enablement. My focus is on translating complex organisational challenges into scalable, measurable solutions that improve efficiency, visibility, and decision-making. Over the past decade, I have led transformation initiatives across supply chain, retail, and enterprise platforms — delivering outcomes that materially improve operational performance and business alignment.",
+  "title": "Strategic Business Transformation & Analysis Leader",
+  "summary": "I operate at the intersection of business strategy, operational execution, and technology enablement. My focus is on translating complex organisational challenges into scalable, measurable solutions that improve efficiency, visibility, and decision-making. Over the past 14 years, I have led transformation initiatives across supply chain, retail, and enterprise platforms, delivering outcomes that materially improve operational performance and business alignment.",
   "value_delivered": [
     {
       "theme": "Operational Transformation",
@@ -28,6 +28,10 @@
     {
       "company": "Tarsus Technology Group",
       "description": "Led business process transformation and team capability across finance, sales, and supply chain functions."
+    },
+    {
+      "company": "PFG",
+      "description": "Where the career journey began. Built foundational experience in operations, process analysis, and continuous improvement within a manufacturing and distribution environment."
     }
   ],
   "capabilities": [
@@ -37,8 +41,16 @@
     "Stakeholder & Change Leadership",
     "Data-Driven Decision Enablement"
   ],
+  "skills_and_tools": {
+    "delivery_methodologies": ["Agile (Scrum, Kanban, SAFe)", "Waterfall", "Release Management"],
+    "leadership_and_team_management": ["Performance Management", "Coaching & Mentoring", "Talent Acquisition", "Stakeholder Relationship Management"],
+    "analytics_and_reporting": ["Power BI", "SQL Server", "Excel"],
+    "enterprise_systems": ["SAP", "Embrace", "Infor (WMS)", "Manhattan Scale (WMS)", "Ortec Route Planning", "Trackmatic", "Mix-telematics", "Exrillo", "UiPath (RPA)"],
+    "project_management": ["MS Project", "Jira"],
+    "process_modelling_and_improvements": ["Aris", "Microsoft Visio", "BPMN", "Lean Six Sigma"]
+  },
   "credentials": [
-    "MBA (In Progress) – Wits Business School",
+    "MBA (In Progress), Wits Business School",
     "Lean Six Sigma Black Belt",
     "IIBA Agile Analysis Certification"
   ],
