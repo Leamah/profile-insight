@@ -1,0 +1,50 @@
+{
+  "name": "Phala Freddy Mahloana",
+  "title": "Strategic Transformation & Business Analysis Leader",
+  "summary": "I operate at the intersection of business strategy, operational execution, and technology enablement. My focus is on translating complex organisational challenges into scalable, measurable solutions that improve efficiency, visibility, and decision-making. Over the past decade, I have led transformation initiatives across supply chain, retail, and enterprise platforms — delivering outcomes that materially improve operational performance and business alignment.",
+  "value_delivered": [
+    {
+      "theme": "Operational Transformation",
+      "description": "Delivered large-scale supply chain and warehouse transformations, including WMS implementations and automation initiatives that improved throughput and execution efficiency."
+    },
+    {
+      "theme": "Process & Visibility",
+      "description": "Redesigned cross-system processes and data flows, improving operational visibility across supply chain networks by more than 90%."
+    },
+    {
+      "theme": "Automation & Efficiency",
+      "description": "Led automation initiatives reducing manual effort by up to 95% and eliminating paper-based operations."
+    }
+  ],
+  "experience": [
+    {
+      "company": "Clicks Group",
+      "description": "Leading WMS transformation across a distributed national network of fulfilment and distribution centres."
+    },
+    {
+      "company": "Shoprite Group",
+      "description": "Delivered integration-driven supply chain initiatives and operational improvements across large-scale retail environments."
+    },
+    {
+      "company": "Tarsus Technology Group",
+      "description": "Led business process transformation and team capability across finance, sales, and supply chain functions."
+    }
+  ],
+  "capabilities": [
+    "Enterprise Transformation",
+    "Business Analysis & Solution Design",
+    "Continuous Improvement & Process Optimisation",
+    "Stakeholder & Change Leadership",
+    "Data-Driven Decision Enablement"
+  ],
+  "credentials": [
+    "MBA (In Progress) – Wits Business School",
+    "Lean Six Sigma Black Belt",
+    "IIBA Agile Analysis Certification"
+  ],
+  "contact": {
+    "email": "mahloanaphala@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/phala-mahloana/",
+    "location": "South Africa"
+  }
+}
